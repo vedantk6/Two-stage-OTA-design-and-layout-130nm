@@ -1,6 +1,18 @@
 # Two-stage-OTA-design-and-layout-130nm
 
-************Design Goals Reached:************
+## Project Summary
+This project implements a two-stage operational transconductance amplifier (OTA) and aims to meet pre-determined design specification. It demonstrates how an OTA works, what MOSFETs are capable of achieving, and the importance of MOSFET devices in modern VLSI and mixed-signal applications. The documents showcase screenshots which depict the actual schematics, testbenchs, simulations, and layouts captured throughout the project.
+
+## Tools Used
+- Ubuntu
+- Sky130 130nm 1.8V PMOS
+- Sky130 130nm 1.8V NMOS
+- Xschem
+- NGSpice
+- Magic VLSI
+- VS Code
+
+## Design Goals Reached:
 
 1. Two amplification stages
 
