@@ -2,7 +2,7 @@
 
 ************Design Goals:************
 
-1. Must have two amplification stages
+1. Two amplification stages
 
 2. Achieve AC gain of 60-70dB
 
