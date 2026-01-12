@@ -1,6 +1,6 @@
 # Two-stage-OTA-design-and-layout-130nm
 
-************Design Goals:************
+************Design Goals Reached:************
 
 1. Two amplification stages
 
