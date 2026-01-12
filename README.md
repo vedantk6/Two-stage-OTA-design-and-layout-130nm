@@ -1,7 +1,7 @@
 # Two-stage-OTA-design-and-layout-130nm
 
 ## Project Summary
-This project implements a two-stage operational transconductance amplifier (OTA) and aims to meet pre-determined design specification. It demonstrates how an OTA works, what MOSFETs are capable of achieving, and the importance of MOSFET devices in modern VLSI and mixed-signal applications. The documents showcase screenshots which depict the actual schematics, testbenchs, simulations, and layouts captured throughout the project.
+This personal project implements a two-stage operational transconductance amplifier (OTA) and aims to meet pre-determined design specification. It demonstrates how an OTA works, what MOSFETs are capable of achieving, and the importance of MOSFET devices in modern VLSI and mixed-signal applications. The documents showcase screenshots which depict the actual schematics, testbenchs, simulations, and layouts captured throughout the project.
 
 ## Tools Used
 - Ubuntu
